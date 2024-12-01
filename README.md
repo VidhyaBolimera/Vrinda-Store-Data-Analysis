@@ -42,8 +42,8 @@ Assessing product categories for profitability and demand.
 Exploring geographic expansion opportunities.
 Understanding the potential for B2B transactions.
 
-**
-Analysis Techniques**
+
+**Analysis Techniques**
 
 
 Data cleaning and transformation to standardize and structure the dataset.
@@ -61,8 +61,8 @@ An interactive dashboard for real-time sales monitoring.
 Suggested strategies for customer retention, product diversification, and market penetration.
 
 
-**
-Insights and Recommendations for Sales and Revenue Growth**
+
+**Insights and Recommendations for Sales and Revenue Growth**
 
 
 **Insights:**
