@@ -7,6 +7,9 @@
 
 
 **Objective:**
+
+
+
 The project aims to analyze sales and revenue data for Vrinda Store to identify key trends, performance drivers, and actionable insights that will guide strategies to maximize growth. The analysis covers customer behavior, channel effectiveness, product performance, and geographic reach, culminating in tailored recommendations for enhancing revenue and market share.
 
 **Scope:**
